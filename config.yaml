@@ -1,0 +1,10 @@
+model: claude-sonnet-4-6          # claude-sonnet-4-6 | claude-opus-4-7
+max_retries: 3
+temperature: 0.3
+input_path: data/troy_script_grouped.json
+output_path: output/troy_analysis.json
+progress_path: output/progress.json
+failed_raw_dir: output/failed_raw
+system_prompt_path: prompts/system_prompt.txt
+log_path: logs/pipeline.log
+comparison_scenes: [25, 75, 130]  # indices des scènes pour le test comparatif
