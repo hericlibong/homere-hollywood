@@ -1,0 +1,92 @@
+[
+  {
+    "scene_number": 91,
+    "scene_heading": "EXT. BLUFF - CONTINUOUS",
+    "characters": ["EUDORUS"],
+    "action_film": "Depuis le promontoire, Patrocle et les Myrmidons observent le duel. Eudore constate que Ménélas reste un combattant redoutable.",
+    "source_principale": "L'Iliade",
+    "reference_iliade": "Chant III",
+    "explication_litteraire": "Transition liée au duel du Chant III entre Ménélas et Pâris. L'observation à distance par Patrocle, Eudore et les Myrmidons est inventée, car Achille et ses hommes ne commentent pas cette scène chez Homère. Le jugement sur Ménélas correspond toutefois au poème : il y domine nettement Pâris et n'est pas le mari ridicule que certaines scènes du film suggéraient."
+  },
+  {
+    "scene_number": 92,
+    "scene_heading": "EXT. BATTLEFIELD - CONTINUOUS",
+    "characters": ["MENELAUS"],
+    "action_film": "Ménélas poursuit son avantage sur Pâris, le provoque avec les corbeaux et le pousse à la peur. Pâris parvient à le frapper, mais Ménélas reprend le dessus. Il blesse Pâris à la cuisse, lui fait perdre son épée et le force à fuir.",
+    "source_principale": "L'Iliade",
+    "reference_iliade": "Chant III",
+    "explication_litteraire": "La domination de Ménélas sur Pâris reprend le mouvement du Chant III de l'Iliade. Chez Homère, Ménélas saisit Pâris par le casque et le traîne vers les Achéens ; Aphrodite rompt la courroie et sauve Pâris en l'emportant dans sa chambre. Le film supprime l'intervention divine et remplace l'arrachement du casque par une fuite physique vers Hector. Les corbeaux sont une invention sombre du scénario, déjà annoncée dans le prologue. Le Pâris du film reste proche du portrait homérique : beau, rapide, mais inférieur à Ménélas dans l'affrontement direct."
+  },
+  {
+    "scene_number": 93,
+    "scene_heading": "EXT. WALLS OF TROY - CONTINUOUS",
+    "characters": ["PRIAM"],
+    "action_film": "Sur les murailles, les Troyens voient Pâris fuir et murmurent devant cette défaillance. Priam, sous le regard de la foule, l'exhorte à combattre. Hélène observe le champ de bataille sans montrer clairement ce qu'elle ressent.",
+    "source_principale": "L'Iliade",
+    "reference_iliade": "Chant III",
+    "explication_litteraire": "La honte publique de Pâris prolonge le Chant III, où Hector reproche à son frère sa lâcheté devant Ménélas. Le film déplace cette honte sous les yeux de Priam et des citoyens. Dans l'Iliade, Priam n'assiste pas au duel avec cette réaction paternelle précise ; il quitte même les remparts après les serments, ne voulant pas voir son fils combattre. Hélène spectatrice silencieuse est cohérente avec sa position sur les murs, mais la scène est dramatisée pour renforcer l'effondrement moral de Pâris."
+  },
+  {
+    "scene_number": 94,
+    "scene_heading": "EXT. BATTLEFIELD - CONTINUOUS",
+    "characters": ["MENELAUS", "AGAMEMNON", "HECTOR", "PARIS", "ODYSSEUS", "GLAUCUS"],
+    "action_film": "Pâris se réfugie aux pieds d'Hector, incapable de reprendre le duel. Ménélas exige que le pacte soit respecté et avance pour le tuer. Agamemnon décide d'exploiter la rupture de l'accord pour lancer l'armée. Hector protège son frère et tue Ménélas d'un coup d'épée. Fou de rage, Agamemnon ordonne la charge générale. Pâris récupère l'Épée de Troie et s'enfuit avec Hector vers les murs, tandis qu'Ulysse comprend que les Grecs s'approchent trop près des archers.",
+    "source_principale": "Adaptation Cinéma",
+    "reference_iliade": "",
+    "explication_litteraire": "La scène bascule hors de l'Iliade. Dans le Chant III, Ménélas ne meurt pas : Aphrodite sauve Pâris, puis Agamemnon proclame Ménélas vainqueur. Ménélas survit à la guerre et reparaît dans l'Odyssée, Chant IV, comme roi de Sparte aux côtés d'Hélène. La mort de Ménélas par Hector est donc une invention majeure du film. Hector protégeant Pâris remplace l'intervention d'Aphrodite ; la logique familiale se substitue au merveilleux divin. Agamemnon utilisant l'échec du duel pour attaquer transforme aussi le sens homérique, où la rupture du pacte vient ensuite du tir de Pandare au Chant IV, inspiré par Athéna. Glaucus donnant l'ordre aux archers appartient à l'adaptation."
+  },
+  {
+    "scene_number": 95,
+    "scene_heading": "EXT. BLUFF - CONTINUOUS",
+    "characters": ["ACHILLES"],
+    "action_film": "Depuis le promontoire, Achille apparaît derrière les Myrmidons et observe la charge grecque. Il comprend le danger d'une avancée trop proche des murs et murmure qu'il faut reculer.",
+    "source_principale": "Adaptation Cinéma",
+    "reference_iliade": "",
+    "explication_litteraire": "Cette observation tactique d'Achille est propre au film. Dans l'Iliade, Achille reste retiré après sa querelle avec Agamemnon, mais il ne commente pas ainsi le duel de Pâris et Ménélas ni la manœuvre grecque qui suit. Le film lui conserve malgré tout une intelligence guerrière supérieure : même hors combat, il voit ce qu'Agamemnon ne comprend pas."
+  },
+  {
+    "scene_number": 96,
+    "scene_heading": "EXT. BATTLEFIELD - CONTINUOUS",
+    "characters": ["GLAUCUS", "HECTOR", "TROJANS"],
+    "action_film": "Les archers troyens décochent une pluie de flèches sur les Grecs trop avancés, provoquant le chaos dans leurs rangs. Hector et Pâris atteignent les murs, puis Hector renvoie son frère dans la ville. Il galvanise les Troyens contre Agamemnon et lance la contre-charge. Les Troyens exploitent la confusion grecque et prennent l'avantage.",
+    "source_principale": "Adaptation Cinéma",
+    "reference_iliade": "",
+    "explication_litteraire": "Cette victoire tactique troyenne est inventée, même si elle réemploie des motifs homériques : charges, replis, confusion des masses et importance des archers. Le Chant IV de l'Iliade reprend la guerre après le duel par le tir de Pandare contre Ménélas, mais non par une salve troyenne coordonnée depuis les murs. Hector exhortant les Troyens correspond à son rôle dans l'Iliade ; il galvanise fréquemment l'armée, notamment aux Chants VIII et XV. Le slogan pour Troie simplifie son éthique en patriotisme moderne. Glaucus, dans Homère, est surtout un chef lycien allié, non le commandant des archers troyens."
+  },
+  {
+    "scene_number": 97,
+    "scene_heading": "EXT. BLUFF - CONTINUOUS",
+    "characters": ["ACHILLES"],
+    "action_film": "Achille, toujours hors du combat, ne parvient pas à rester immobile devant le désordre grec. Il s'agite, se contient et répète que les troupes doivent reformer leurs lignes.",
+    "source_principale": "L'Iliade",
+    "reference_iliade": "Chant I",
+    "explication_litteraire": "Cette scène prolonge la colère d'Achille après le Chant I : il s'abstient de combattre alors que les Achéens souffrent. Le détail de son agitation tactique est inventé, mais la situation générale est homérique. Dans l'Iliade, l'absence d'Achille permet aux Troyens de prendre l'avantage jusqu'à menacer les nefs. Le film rend visible sa frustration de guerrier, partagé entre son ressentiment contre Agamemnon et son instinct de chef."
+  },
+  {
+    "scene_number": 98,
+    "scene_heading": "EXT. BATTLEFIELD - CONTINUOUS",
+    "characters": ["ODYSSEUS", "AJAX"],
+    "action_film": "Ulysse tente de réorganiser les lignes grecques pendant que la bataille se disloque. Ajax voit Hector percer les rangs et l'attaque. Il renverse le cheval d'Hector, brise son bouclier et manque de l'étrangler malgré une blessure mortelle. Hector survit de justesse et tue Ajax après un combat brutal.",
+    "source_principale": "Adaptation Cinéma",
+    "reference_iliade": "",
+    "explication_litteraire": "La mort d'Ajax par Hector est une invention majeure. Dans l'Iliade, Ajax fils de Télamon survit aux combats du poème ; au Chant VII, il affronte Hector en duel sans vainqueur décisif, et au Chant XVII il défend le corps de Patrocle. Sa mort appartient à une tradition postérieure : après l'attribution des armes d'Achille à Ulysse, Ajax se suicide, motif tragique notamment chez Sophocle dans Ajax. Le film inverse donc sa destinée en lui donnant une mort guerrière sous les coups d'Hector. Le combat conserve cependant deux traits homériques : Ajax comme force massive et Hector comme meilleur défenseur troyen. Ulysse réorganisant les troupes correspond à son intelligence pratique, mais Selepius n'est pas une référence homérique assurée."
+  },
+  {
+    "scene_number": 99,
+    "scene_heading": "EXT. BLUFF - CONTINUOUS",
+    "characters": [],
+    "action_film": "Patrocle et les Myrmidons voient Ajax tomber avec stupeur. Achille, incapable de supporter davantage le désastre grec sans intervenir, s'éloigne du promontoire. Ses hommes n'osent pas le regarder.",
+    "source_principale": "Adaptation Cinéma",
+    "reference_iliade": "",
+    "explication_litteraire": "La réaction d'Achille à la mort d'Ajax est inventée, puisque cette mort n'a pas lieu dans l'Iliade. La structure dramatique reste homérique : Achille se tient à l'écart pendant que les meilleurs Achéens souffrent. Chez Homère, ce sont surtout les blessures des chefs et la menace contre les nefs qui rendent son absence insoutenable, avant que Patrocle ne demande à combattre au Chant XVI."
+  },
+  {
+    "scene_number": 100,
+    "scene_heading": "EXT. BATTLEFIELD - DAY",
+    "characters": ["ODYSSEUS", "AGAMEMNON"],
+    "action_film": "Les Troyens mettent les Grecs en déroute après la mort de deux rois. Ulysse saute sur le char d'Agamemnon et lui impose l'idée d'une retraite. Agamemnon, sonné par la défaite, hésite encore à reconnaître que son armée peut perdre. Ulysse fait finalement transmettre l'ordre de repli vers les navires, tandis que les Troyens poursuivent leur avantage.",
+    "source_principale": "Adaptation Cinéma",
+    "reference_iliade": "",
+    "explication_litteraire": "La retraite grecque après la mort de Ménélas et d'Ajax est propre au film, puisque ces deux morts contredisent la tradition antique. L'Iliade connaît cependant de grands moments de recul achéen : aux Chants VIII, XI, XV et XVI, les Troyens repoussent les Grecs vers leurs nefs, en partie parce qu'Achille reste absent. Ulysse jouant le rôle du stratège lucide correspond à son portrait homérique de conseiller rusé et efficace. Agamemnon refusant d'admettre la défaite prolonge le caractère orgueilleux du chef achéen, mais la séquence exacte est cinématographique."
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "scene_number": 10,
+    "scene_heading": "INT. PALACE - RECEPTION HALL - NIGHT",
+    "characters": [],
+    "action_film": "Le banquet de Sparte devient plus bruyant à mesure que le vin circule. Soldats spartiates et troyens chantent ensemble. Polydora s'installe sur les genoux de Ménélas, tandis qu'Hector reste préoccupé par l'absence de Pâris.",
+    "source_principale": "Le Cycle Troyen",
+    "reference_iliade": "",
+    "explication_litteraire": "La scène prolonge l'hospitalité de Pâris à Sparte, épisode préhomérique attribué aux Chants Cypriens, connus seulement par résumé de Proclus (à vérifier). L'Iliade ne montre jamais ce banquet. La cordialité apparente entre soldats troyens et spartiates dramatise la violation de l'hospitalité qui suivra, thème central dans la tradition grecque. La présence d'Hector à Sparte reste une invention du scénario : les sources antiques ne font pas de lui le compagnon de Pâris dans cette visite. Polydora porte un nom homérique authentique, mais dans l'Iliade elle est une fille de Pélée, non une servante associée à Ménélas."
+  },
+  {
+    "scene_number": 11,
+    "scene_heading": "INT. HELEN'S CHAMBER - NIGHT (LATER)",
+    "characters": ["PARIS", "HELEN"],
+    "action_film": "Après leur nuit ensemble, Pâris offre à Hélène un collier venu de Propontide. Hélène craint le départ de Pâris plus que la mort. Pâris lui propose de quitter Sparte avec lui malgré la poursuite des hommes et la malédiction des dieux. Hélène mesure le danger de ce choix.",
+    "source_principale": "Le Cycle Troyen",
+    "reference_iliade": "",
+    "explication_litteraire": "Le départ d'Hélène avec Pâris relève du Cycle Troyen, surtout des Chants Cypriens, source perdue à vérifier. Le film choisit une fuite amoureuse consentie, alors que la tradition antique varie entre séduction, enlèvement et intervention divine. La Propontide, mer entre Égée et Pont-Euxin, ancre le cadeau dans une géographie grecque réelle, mais le collier de perles n'est pas un motif homérique identifiable. Dans l'Iliade, Hélène est déjà à Troie et se juge elle-même avec dureté, notamment au Chant III face à Priam puis à Pâris ; le film place ici l'origine affective de cette faute. La menace d'une malédiction divine condense le rôle des dieux sans reprendre le jugement de Pâris ni Aphrodite."
+  },
+  {
+    "scene_number": 12,
+    "scene_heading": "INT. PALACE - COURTYARD - LATER",
+    "characters": ["HECTOR", "TECTON", "PARIS"],
+    "action_film": "Dans la cour du palais, Hector organise les préparatifs du départ avec Tecton et demande des offrandes à Poséidon. Il surprend Pâris revenant discrètement et l'interroge. Pâris dissimule sa liaison avec Hélène sous une plaisanterie. Hector lui rappelle les enjeux politiques de la paix avec Sparte et le menace s'il met Troie en danger.",
+    "source_principale": "Adaptation Cinéma",
+    "reference_iliade": "",
+    "explication_litteraire": "Cette confrontation fraternelle est une invention du scénario, car Hector n'est pas présent à Sparte dans les traditions antiques connues. Le nom Tecton a toutefois une résonance homérique : au Chant V de l'Iliade, Phéréclos est fils de Tecton et constructeur des navires de Pâris, motif directement lié au malheur troyen. La référence exacte au Tecton du film reste à vérifier, mais le choix du nom paraît savant. Les offrandes à Poséidon conviennent au départ en mer, sans correspondre à une scène précise d'Homère. Hector est ici gardien de la cité et de la paix ; ce trait rejoint son portrait homérique de défenseur responsable de Troie, surtout au Chant VI, mais la situation dramatique est cinématographique."
+  },
+  {
+    "scene_number": 13,
+    "scene_heading": "EXT. IONIAN SEA - DAY",
+    "characters": [],
+    "action_film": "Le navire troyen avance sur la mer Ionienne, quittant Sparte vers Troie.",
+    "source_principale": "Le Cycle Troyen",
+    "reference_iliade": "",
+    "explication_litteraire": "Transition liée au retour de Pâris vers Troie avec Hélène, épisode préhomérique du Cycle Troyen, surtout les Chants Cypriens (à vérifier). L'Iliade ne raconte pas ce voyage."
+  },
+  {
+    "scene_number": 14,
+    "scene_heading": "EXT. SHIP'S DECK - DAY",
+    "characters": ["PARIS", "HECTOR"],
+    "action_film": "Sur le pont du navire, les vents favorables dispensent l'équipage de ramer. Hector sculpte un lion de bois à l'avant. Pâris évoque la protection de Poséidon puis demande à Hector s'il l'aime. Hector comprend qu'il a commis une faute et le suit vers l'intérieur du navire.",
+    "source_principale": "Adaptation Cinéma",
+    "reference_iliade": "",
+    "explication_litteraire": "La scène prépare la révélation d'Hélène à bord et relève de l'adaptation. Les vents favorables et l'invocation de Poséidon appartiennent au langage religieux grec commun, mais aucun passage de l'Iliade ne montre Hector et Pâris sur un navire de retour de Sparte. Le lion sculpté par Hector n'a pas de source antique claire ; il sert à caractériser sa maîtrise calme et son attachement domestique. Dans l'Iliade, les comparaisons au lion sont fréquentes pour les guerriers, y compris dans les scènes de combat, mais l'objet en bois est une création du scénario. Le lien fraternel Hector-Pâris est en revanche homérique : au Chant III et au Chant VI, Hector reprend sévèrement Pâris pour sa lâcheté ou son irresponsabilité."
+  },
+  {
+    "scene_number": 15,
+    "scene_heading": "INT. TROJAN SHIP",
+    "characters": ["PARIS", "HECTOR", "HELEN"],
+    "action_film": "Pâris ouvre sa cabine et révèle Hélène à Hector. Hector, stupéfait, menace son frère puis quitte aussitôt la pièce. Hélène comprend que la paix est perdue. Pâris affirme préférer Hélène à la paix et la rejoint brièvement avant de suivre Hector.",
+    "source_principale": "Le Cycle Troyen",
+    "reference_iliade": "",
+    "explication_litteraire": "La présence d'Hélène sur le navire de Pâris relève du Cycle Troyen, principalement des Chants Cypriens, connus indirectement et à vérifier. La scène invente toutefois le témoin Hector : aucune source antique majeure ne le place sur ce navire ni ne lui fait découvrir Hélène ainsi. Le film transforme la cause de la guerre en conflit immédiat entre amour privé et responsabilité politique. Dans l'Iliade, Pâris est déjà à Troie et Hector lui reproche sa conduite au Chant III, mais ce reproche se déroule après le début de la guerre, non au moment de la fuite. Hélène annonçant la fin de la paix anticipe son statut homérique de cause douloureuse du conflit, sans reprendre une scène précise."
+  },
+  {
+    "scene_number": 16,
+    "scene_heading": "INT. PALACE OF SPARTA - HELEN'S BEDCHAMBER - DAY",
+    "characters": [],
+    "action_film": "Ménélas entre brutalement dans la chambre d'Hélène avec dix soldats pour constater sa disparition.",
+    "source_principale": "Le Cycle Troyen",
+    "reference_iliade": "",
+    "explication_litteraire": "La découverte de la fuite ou de l'enlèvement d'Hélène appartient à l'arrière-plan cyclique de la guerre, mais cette mise en scène précise n'est pas conservée chez Homère. Les Chants Cypriens racontaient les causes de l'expédition troyenne, mais le détail de Ménélas entrant avec des soldats est une dramatisation moderne, à vérifier pour toute source cyclique précise."
+  },
+  {
+    "scene_number": 17,
+    "scene_heading": "INT. HELEN'S BEDCHAMBER",
+    "characters": ["MENELAUS", "POLYDORA", "HIPPASUS", "FISHERMAN"],
+    "action_film": "Ménélas trouve Polydora dans la chambre d'Hélène et la menace pour obtenir la vérité. Hippasus arrive avec un pêcheur qui affirme avoir vu Hélène embarquer avec Pâris. Ménélas retient sa colère et ordonne de préparer son navire.",
+    "source_principale": "Adaptation Cinéma",
+    "reference_iliade": "",
+    "explication_litteraire": "La réaction immédiate de Ménélas est inventée dans son détail, même si elle part d'un événement cyclique : le départ d'Hélène avec Pâris. Polydora, Hippasus et le pêcheur ne sont pas associés à cette découverte dans les sources antiques majeures. Hippasus est un nom homérique porté par plusieurs personnages ou patronymes troyens et alliés, mais son rôle de conseiller spartiate est propre au scénario. La brutalité de Ménélas diverge du Ménélas homérique, souvent qualifié d'irréprochable, amumôn, et traité comme un roi honorable. Son serment par le père des dieux emploie une formule religieuse grecque plausible sans correspondre à une citation de l'Iliade."
+  },
+  {
+    "scene_number": 18,
+    "scene_heading": "EXT. TROJAN SHIP",
+    "characters": ["HECTOR", "PARIS"],
+    "action_film": "Hector ordonne au pilote de retourner à Sparte, mais Pâris l'arrête. Hector accuse son frère d'avoir trahi leur père, leur pays et la paix. Pâris accepte d'accompagner Hélène à Sparte, même au prix de sa mort. Hector lui oppose son ignorance de la guerre, puis comprend qu'il est déjà engagé dans ce conflit et décide de poursuivre vers Troie.",
+    "source_principale": "Adaptation Cinéma",
+    "reference_iliade": "",
+    "explication_litteraire": "La scène est une invention structurante du film : Hector n'a pas, dans les sources antiques connues, la possibilité de renvoyer Hélène avant l'arrivée à Troie. Elle transpose cependant un contraste homérique réel entre Hector et Pâris. Au Chant III, Hector blâme Pâris pour son apparence séduisante et son manque de valeur guerrière ; au Chant VI, il le trouve loin du combat et le rappelle à ses devoirs. Le discours du film contre la gloire de mourir au combat modernise fortement Hector : l'Iliade ne nie pas l'horreur de la mort, mais Hector y poursuit l'honneur guerrier et la défense de la cité. La décision finale, « vers Troie », donne à Hector une responsabilité tragique que la tradition attribue plutôt à Pâris, à Aphrodite et au destin."
+  },
+  {
+    "scene_number": 19,
+    "scene_heading": "EXT. MYCENAE HARBOR - DAY",
+    "characters": [],
+    "action_film": "Ménélas arrive au port de Mycènes avec Hippasus et ses soldats. Il monte vers la citadelle fortifiée pour rejoindre Agamemnon.",
+    "source_principale": "Adaptation Cinéma",
+    "reference_iliade": "",
+    "explication_litteraire": "La venue de Ménélas à Mycènes pour solliciter Agamemnon est une articulation scénaristique. La tradition antique connaît la mobilisation des anciens prétendants d'Hélène par le serment de Tyndare, motif lié aux Chants Cypriens ou à des traditions postérieures, à vérifier. Le film simplifie ce réseau en une démarche fraternelle directe. Mycènes comme siège d'Agamemnon est homérique : le Catalogue des vaisseaux au Chant II lui attribue la puissance la plus vaste parmi les Achéens, mais la scène du port n'est pas dans l'Iliade."
+  },
+  {
+    "scene_number": 20,
+    "scene_heading": "INT. MYCENAE CITADEL - THRONE ROOM - DAY",
+    "characters": ["AGAMEMNON", "MENELAUS"],
+    "action_film": "Dans la salle du trône de Mycènes, Ménélas rejoint Agamemnon parmi les richesses de ses conquêtes. Il réclame Hélène pour la tuer et veut brûler Troie. Agamemnon présente la guerre comme moteur des empires. Les deux frères unissent leurs mains et décident l'expédition contre Troie.",
+    "source_principale": "Adaptation Cinéma",
+    "reference_iliade": "",
+    "explication_litteraire": "La décision de guerre est ici remodelée en calcul impérial d'Agamemnon et vengeance conjugale de Ménélas. Le Cycle Troyen faisait intervenir le serment de Tyndare et le rassemblement des prétendants d'Hélène, motif à vérifier dans les Chants Cypriens et traditions apparentées ; le film remplace cette obligation collective par une logique de pouvoir. Agamemnon chef des Achéens est homérique, mais l'Iliade commence dans la dixième année de guerre et ne raconte pas cette réunion. Le portrait d'Agamemnon comme roi avide et dominateur prolonge son conflit avec Achille au Chant I, sans reprendre un épisode précis. Ménélas y est plus violent que chez Homère, où son honneur offensé est réel mais où il reste un guerrier digne."
+  }
+]

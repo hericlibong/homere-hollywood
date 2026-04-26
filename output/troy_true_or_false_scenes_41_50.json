@@ -1,0 +1,92 @@
+[
+  {
+    "scene_number": 41,
+    "scene_heading": "EXT. AGAMEMNON'S WARSHIP",
+    "characters": ["MENELAUS", "AGAMEMNON"],
+    "action_film": "Depuis le navire d'Agamemnon, Ménélas, Nestor et Agamemnon observent le vaisseau noir d'Achille filer vers la plage. Ménélas demande à qui il appartient. Agamemnon comprend qu'Achille tente de débarquer avec une poignée d'hommes et le traite d'insensé.",
+    "source_principale": "Adaptation Cinéma",
+    "reference_iliade": "",
+    "explication_litteraire": "La scène prolonge l'invention du débarquement isolé d'Achille. Dans l'Iliade, Achille ne mène pas une attaque inaugurale contre la plage de Troie ; le poème commence bien plus tard, lorsque le camp achéen est déjà installé. La réaction d'Agamemnon reprend cependant une tension homérique authentique : le roi reconnaît la valeur d'Achille tout en le méprisant comme force incontrôlable. Nestor est présent dans l'action mais absent du champ `characters` extrait ; son rôle d'observateur prudent reste cohérent avec son portrait homérique de conseiller. La voile noire est un signe visuel propre au film."
+  },
+  {
+    "scene_number": 42,
+    "scene_heading": "EXT. TROJAN BEACH FORTIFICATIONS - DAY",
+    "characters": [],
+    "action_film": "Sur les fortifications de plage, les archers troyens vérifient une dernière fois les cordes de leurs arcs avant l'assaut grec.",
+    "source_principale": "Adaptation Cinéma",
+    "reference_iliade": "",
+    "explication_litteraire": "Transition militaire inventée pour préparer le combat de plage. L'Iliade contient de nombreuses scènes d'archerie, surtout autour de Pâris, Pandare ou Teucros, mais elle ne décrit pas des archers troyens attendant le premier débarquement achéen derrière des fortifications côtières."
+  },
+  {
+    "scene_number": 43,
+    "scene_heading": "EXT. TROJAN ARMORY - DAY",
+    "characters": [],
+    "action_film": "Tecton arrive à cheval devant l'armurerie troyenne et s'y précipite.",
+    "source_principale": "Adaptation Cinéma",
+    "reference_iliade": "",
+    "explication_litteraire": "Cette transition est propre au scénario. Le nom Tecton rappelle un nom homérique lié aux artisans et aux navires de Pâris, mais le capitaine de la garde troyenne courant vers l'armurerie n'a pas de source antique identifiable."
+  },
+  {
+    "scene_number": 44,
+    "scene_heading": "INT. TROJAN ARMORY - DAY",
+    "characters": ["HECTOR", "TECTON", "LSYANDER"],
+    "action_film": "Dans l'armurerie, Hector supervise l'armement des citoyens troyens. Tecton confirme que la garde apollonienne attend aux portes. Lysander explique que beaucoup d'hommes arrivent encore des campagnes. Hector exige une mobilisation plus rapide et ordonne de ramener tous les Troyens derrière les murs.",
+    "source_principale": "Adaptation Cinéma",
+    "reference_iliade": "",
+    "explication_litteraire": "Cette organisation défensive est une invention du film, mais elle développe un trait homérique solide : Hector est le principal défenseur de Troie. Dans l'Iliade, il commande les Troyens au combat, les rassemble et les exhorte, notamment aux Chants VI, VIII et XV. L'armement massif des citoyens et la recherche des habitants isolés ne sont pas racontés chez Homère. La garde apollonienne reflète le lien de Troie avec Apollon, protecteur actif des Troyens dans l'Iliade. Le nom Lysandre est grec, mais son rôle de capitaine d'armurerie troyen appartient au scénario ; la graphie source `LSYANDER` semble être une coquille d'extraction ou de script."
+  },
+  {
+    "scene_number": 45,
+    "scene_heading": "EXT. ACHILLES' WARSHIP",
+    "characters": ["ACHILLES", "PATROCLUS"],
+    "action_film": "Sur le navire d'Achille, Patrocle se prépare à combattre avec les Myrmidons. Achille lui retire sa lance et lui dit qu'il n'est pas encore prêt. Il le charge de garder le navire pendant que les guerriers descendent vers la plage. Patrocle, frustré, enlève son armure.",
+    "source_principale": "Adaptation Cinéma",
+    "reference_iliade": "",
+    "explication_litteraire": "La scène invente un Patrocle jeune cousin encore exclu du combat, alors que l'Iliade le présente comme compagnon adulte d'Achille, fils de Ménoitios. Elle prépare toutefois l'axe majeur des Chants XVI à XVIII : Patrocle veut combattre, Achille cherche à le retenir ou à encadrer son engagement, et sa participation aura des conséquences tragiques. Les Myrmidons comme troupe personnelle d'Achille sont homériques. L'idée que Patrocle garde le navire pendant le premier assaut n'appartient pas à Homère. Le film transforme la relation complexe d'amitié héroïque en rapport pédagogique et familial."
+  },
+  {
+    "scene_number": 46,
+    "scene_heading": "EXT. GATES OF TROY - DAY",
+    "characters": ["HECTOR"],
+    "action_film": "Aux portes de Troie, Hector passe en revue la garde apollonienne montée. Il énonce son code d'honneur : respecter les dieux, aimer sa femme et défendre son pays. Les soldats l'acclament. Hector mène ensuite la charge vers la plage.",
+    "source_principale": "Adaptation Cinéma",
+    "reference_iliade": "",
+    "explication_litteraire": "Le discours d'Hector est inventé, mais il condense trois dimensions homériques du personnage : piété, attachement conjugal et défense de Troie. Au Chant VI, Hector refuse de rester auprès d'Andromaque parce que son devoir l'appelle au combat et parce qu'il redoute la honte devant les Troyens. La formule moderne du « code » n'est pas homérique ; elle simplifie l'éthique héroïque en principes explicites. La garde apollonienne prolonge le rôle d'Apollon comme protecteur des Troyens, mais cette unité militaire n'est pas attestée dans l'Iliade. La scène fait d'Hector le chef civique et moral de la cité."
+  },
+  {
+    "scene_number": 47,
+    "scene_heading": "EXT. ACHILLES' WARSHIP - DAY",
+    "characters": ["ACHILLES"],
+    "action_film": "À la proue de son navire, Achille harangue les Myrmidons et affirme préférer leur compagnie à celle d'une immense armée. Il leur promet l'immortalité au-delà de la plage. Le navire s'échoue sur le sable et Achille descend le premier, suivi de ses hommes.",
+    "source_principale": "Adaptation Cinéma",
+    "reference_iliade": "",
+    "explication_litteraire": "La harangue avant le débarquement est propre au film. Elle traduit cependant l'enjeu homérique du kleos : la gloire qui rend le héros mémorable après sa mort. Achille sait dans l'Iliade que la gloire devant Troie lui coûtera le retour, surtout au Chant IX, v. 410-416. Le mot d'immortalité est moderne dans sa formulation : les héros homériques ne deviennent pas immortels au sens divin, mais leur nom survit par le chant. La fraternité des Myrmidons autour d'Achille correspond à sa troupe personnelle. Le débarquement spectaculaire en tête de flotte ne reprend pas un épisode conservé de l'Iliade."
+  },
+  {
+    "scene_number": 48,
+    "scene_heading": "EXT. TROJAN BEACH FORTIFICATIONS - CONTINUOUS",
+    "characters": [],
+    "action_film": "Les archers troyens attendent que les Myrmidons descendent du navire d'Achille. Leur capitaine retient le tir jusqu'au bon moment, puis donne l'ordre de lancer la première volée.",
+    "source_principale": "Adaptation Cinéma",
+    "reference_iliade": "",
+    "explication_litteraire": "Cette scène tactique appartient au combat de plage inventé par le film. L'Iliade ne décrit pas de défense initiale du rivage troyen contre les Myrmidons. Les archers sont bien présents dans l'univers homérique, mais la guerre y est rarement organisée comme une séquence de débarquement amphibie. Le capitaine anonyme et les fortifications de plage servent à dramatiser la supériorité d'Achille sous le feu ennemi."
+  },
+  {
+    "scene_number": 49,
+    "scene_heading": "EXT. TROJAN BEACH - CONTINUOUS",
+    "characters": [],
+    "action_film": "Les flèches troyennes frappent les Myrmidons pendant leur descente et plusieurs hommes tombent dans la mer. Les survivants se regroupent sous leurs boucliers autour d'Achille. Sur son signal, une partie des guerriers se rue vers les fortifications sous la pluie de traits.",
+    "source_principale": "Adaptation Cinéma",
+    "reference_iliade": "",
+    "explication_litteraire": "Le combat sous les flèches est cinématographique et ne correspond pas à un passage de l'Iliade. Il met en avant la discipline des Myrmidons et l'autorité gestuelle d'Achille, traits compatibles avec sa stature homérique sans être narrativement homériques. Les boucliers levés sous les projectiles rappellent des pratiques de combat plausibles, mais l'Iliade privilégie les duels, les mêlées et les exploits individuels plutôt qu'une tactique de débarquement. Le cri des guerriers compare les Myrmidons à des prédateurs, procédé fréquent dans les comparaisons homériques, mais ici sans citation précise."
+  },
+  {
+    "scene_number": 50,
+    "scene_heading": "EXT. ACHILLES' WARSHIP - CONTINUOUS",
+    "characters": ["ONE-LEGGED COOK"],
+    "action_film": "Sur le navire d'Achille, Patrocle se protège avec le cuisinier pendant que les flèches frappent autour d'eux. Des traits enflammés mettent les voiles en feu. Le cuisinier demande de l'aide et Patrocle surmonte sa peur pour l'aider à abaisser les voiles.",
+    "source_principale": "Adaptation Cinéma",
+    "reference_iliade": "",
+    "explication_litteraire": "Cette scène est inventée pour donner à Patrocle une première expérience du danger sans le faire entrer encore dans la mêlée. Le Patrocle homérique n'est pas un novice effrayé ; au Chant XVI, il mène les Myrmidons avec efficacité avant d'être tué par Hector avec l'aide d'Apollon et d'Euphorbe. Le cuisinier à une jambe n'a pas de modèle antique identifiable. Le feu sur les voiles inverse un motif central de l'Iliade : aux Chants XV et XVI, les Troyens menacent de brûler les nefs achéennes, ce qui pousse Patrocle à intervenir. Ici, le danger du navire brûlé est déplacé au tout début de la guerre."
+  }
+]

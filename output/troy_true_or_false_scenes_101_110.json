@@ -1,0 +1,92 @@
+[
+  {
+    "scene_number": 101,
+    "scene_heading": "EXT. WALLS OF TROY",
+    "characters": [],
+    "action_film": "Sur les murailles, les Troyens acclament la victoire. Nobles et gens du peuple s'embrassent comme des frères.",
+    "source_principale": "Adaptation Cinéma",
+    "reference_iliade": "",
+    "explication_litteraire": "Transition inventée après la victoire troyenne du film. L'Iliade montre des moments d'espoir troyen quand les Achéens reculent, mais ne décrit pas cette fraternisation civique sur les murs après la mort de Ménélas et d'Ajax, puisque ces morts ne sont pas homériques."
+  },
+  {
+    "scene_number": 102,
+    "scene_heading": "EXT. BATTLEFIELD",
+    "characters": [],
+    "action_film": "Hector, à pied, mène les Troyens dans la poursuite des Grecs en fuite. Le champ de bataille est jonché de plusieurs milliers de morts grecs.",
+    "source_principale": "Adaptation Cinéma",
+    "reference_iliade": "",
+    "explication_litteraire": "La poursuite victorieuse menée par Hector est compatible avec son rôle homérique de champion troyen, mais cette séquence précise découle de l'intrigue inventée du film. Dans l'Iliade, Hector repousse réellement les Achéens vers leurs nefs aux Chants VIII et XV, surtout pendant l'absence d'Achille. Ici, le résultat est amplifié par les morts non homériques de Ménélas et d'Ajax."
+  },
+  {
+    "scene_number": 103,
+    "scene_heading": "EXT. BEACH ENCAMPMENT",
+    "characters": ["HECTOR", "LYSANDER"],
+    "action_film": "Hector arrête les Troyens avant qu'ils n'entrent à portée des archers grecs retranchés. Lysander veut poursuivre l'ennemi, mais Hector refuse de répéter l'erreur d'Agamemnon. Il ordonne de rassembler les morts troyens et d'envoyer aux Grecs un sauf-conduit pour récupérer les leurs. Il présente cette retenue comme ce qui rend Troie digne d'être défendue.",
+    "source_principale": "L'Iliade",
+    "reference_iliade": "Chant VII",
+    "explication_litteraire": "L'arrêt tactique est inventé, mais le traitement des morts renvoie à l'Iliade. Au Chant VII, après le duel d'Hector et d'Ajax, les deux camps concluent une trêve pour brûler leurs morts. Le film donne l'initiative morale à Hector, alors que chez Homère la trêve résulte d'une nécessité partagée et de négociations. Hector respectueux des morts correspond bien à l'éthique héroïque, même si l'Iliade montre aussi la dureté extrême des combattants. Lysander reste un personnage scénaristique. La phrase selon laquelle Troie vaut d'être défendue modernise la noblesse d'Hector en civisme explicite."
+  },
+  {
+    "scene_number": 104,
+    "scene_heading": "EXT. BATTLEFIELD - LATER",
+    "characters": ["AGAMEMNON"],
+    "action_film": "Les deux armées ramassent leurs morts sur le champ de bataille. Les vivants lavent les corps, les chargent sur des chariots et dressent les bûchers funéraires. Les Salaminiens pleurent Ajax, tandis qu'Agamemnon place des pièces sur les yeux de Ménélas et allume son bûcher. Il promet à son frère de brûler Troie.",
+    "source_principale": "Héritage Gréco-Romain",
+    "reference_iliade": "Chant VII",
+    "explication_litteraire": "La trêve funéraire rappelle le Chant VII de l'Iliade, où Achéens et Troyens brûlent leurs morts après une pause dans les combats. Mais les funérailles de Ménélas et d'Ajax sont incompatibles avec Homère : Ménélas survit à la guerre, et Ajax ne meurt pas devant Troie dans l'Iliade. Les deux pièces sur les yeux relèvent d'une pratique funéraire gréco-romaine associée au passage vers l'au-delà et à Charon, surtout attestée dans des traditions postérieures, non dans les rites homériques. Dans l'Iliade, les morts sont brûlés avec lamentations et dépôts funéraires, mais la monnaie aux yeux n'est pas un détail homérique. La promesse d'Agamemnon est une invention de vengeance."
+  },
+  {
+    "scene_number": 105,
+    "scene_heading": "INT. PARIS'S BEDCHAMBER -NIGHT",
+    "characters": ["PARIS", "HELEN", "HECTOR"],
+    "action_film": "Dans la chambre de Pâris, Hélène recoud sa blessure à la jambe. Pâris avoue sa honte d'avoir fui Ménélas pour survivre, mais Hélène lui dit qu'elle veut un homme avec qui vieillir, non un héros. Hector entre, remercie les dieux que son frère soit vivant et l'assure qu'il pourra encore le rendre fier.",
+    "source_principale": "Adaptation Cinéma",
+    "reference_iliade": "",
+    "explication_litteraire": "La scène est inventée, mais elle répond au portrait homérique de Pâris après le duel. Dans l'Iliade, Chant III, Aphrodite transporte Pâris dans sa chambre et Hélène le blâme durement avant de céder à la déesse ; ici, Pâris revient blessé et lucide, sans intervention divine. Hélène ne le méprise pas comme chez Homère, elle refuse au contraire l'idéal héroïque au profit d'une vie longue. Hector fraternel et protecteur s'écarte du reproche homérique plus sévère adressé à Pâris au Chant III. La scène transforme la honte guerrière en intimité psychologique moderne."
+  },
+  {
+    "scene_number": 106,
+    "scene_heading": "EXT. BEACH ENCAMPMENT - NIGHT",
+    "characters": [],
+    "action_film": "La plage grecque est couverte de feux de camp. Les soldats épuisés restent silencieux devant les flammes après la défaite.",
+    "source_principale": "Adaptation Cinéma",
+    "reference_iliade": "",
+    "explication_litteraire": "Transition inventée. L'image des feux du camp achéen rappelle l'atmosphère guerrière de l'Iliade, mais aucun passage précis ne correspond à ces soldats anonymes méditant après la défaite provoquée par les morts non homériques de Ménélas et d'Ajax."
+  },
+  {
+    "scene_number": 107,
+    "scene_heading": "INT. AGAMEMNON'S TENT - NIGHT",
+    "characters": ["AGAMEMNON", "ODYSSEUS", "NESTOR"],
+    "action_film": "Dans la tente d'Agamemnon, Nestor étudie la carte pendant qu'Ulysse et Agamemnon débattent de la défaite. Ulysse suggère le départ, puis défend l'idée de rester pour protéger la Grèce plutôt que l'orgueil du roi. Nestor souligne la faiblesse du moral grec. Ulysse propose d'aller parler à Achille, et Agamemnon accepte de lui rendre Briséis, avant de révéler qu'il l'a livrée aux soldats.",
+    "source_principale": "L'Iliade",
+    "reference_iliade": "Chant IX",
+    "explication_litteraire": "La scène réélabore l'ambassade à Achille du Chant IX de l'Iliade. Chez Homère, Agamemnon, après les revers achéens, offre de rendre Briséis intacte et d'ajouter de riches présents ; Ulysse, Ajax et Phoenix portent la proposition à Achille. Le film garde l'idée d'une mission diplomatique d'Ulysse mais durcit Agamemnon, qui a abandonné Briséis aux soldats. Nestor conseiller de compromis et Ulysse stratège lucide sont conformes à leurs rôles homériques. L'argument sur la Grèce comme entité politique est plus moderne : l'Iliade parle de rois achéens et d'honneur, pas d'une nation grecque unifiée à protéger."
+  },
+  {
+    "scene_number": 108,
+    "scene_heading": "EXT. GREEK CAMPFIRE - NIGHT",
+    "characters": ["APHAEREUS", "ECHEPOLUS", "HAEMON", "APHAREUS", "ACHILLES"],
+    "action_film": "Près d'un feu grec, des soldats ivres maltraitent Briséis, déchirent ses vêtements et veulent la marquer au fer d'Agamemnon. Elle se débat et griffe Haemon, qui la frappe. Achille intervient seul, arrache le fer, abat Haemon puis Aphaereus, et met les autres en fuite. Il relève Briséis avec douceur et l'emmène.",
+    "source_principale": "Adaptation Cinéma",
+    "reference_iliade": "",
+    "explication_litteraire": "Cette scène violente est une invention du film et n'a pas d'équivalent dans l'Iliade. Chez Homère, Briséis est enlevée à Achille par les hérauts Talthybios et Eurybatès au Chant I ; elle suit à contrecœur, mais elle n'est pas livrée à une troupe de soldats. Le marquage au sceau d'Agamemnon modernise brutalement la logique du butin en esclavage corporel visible. Les noms Aphaereus/Aphareus, Echepolus et Haemon sonnent grecs et certains sont attestés dans des traditions mythologiques ou homériques, mais leurs rôles ici sont à vérifier. Achille protecteur de Briséis est une inflexion cinématographique qui prépare leur relation amoureuse, absente de cette forme chez Homère."
+  },
+  {
+    "scene_number": 109,
+    "scene_heading": "EXT. ACHILLES' TENT - NIGHT",
+    "characters": ["ACHILLES"],
+    "action_film": "Achille ramène Briséis à sa tente, où Eudore et Patrocle attendent. Il ordonne qu'on apporte nourriture, eau et une robe propre. Patrocle les regarde entrer.",
+    "source_principale": "Adaptation Cinéma",
+    "reference_iliade": "",
+    "explication_litteraire": "Transition inventée dans la continuité de la scène précédente. Elle inverse la logique du Chant I : Briséis, prise à Achille par Agamemnon chez Homère, revient ici vers Achille comme personne à protéger après avoir été menacée par les hommes d'Agamemnon. Eudore reste un personnage du film, Patrocle un témoin préparant son lien avec la crise d'Achille."
+  },
+  {
+    "scene_number": 110,
+    "scene_heading": "INT. ACHILLES' TENT - LATER",
+    "characters": ["ACHILLES", "BRISEIS"],
+    "action_film": "Dans la tente, Briséis, lavée et vêtue d'une robe trop grande, refuse d'abord de manger. Achille s'enquiert de ce qu'elle a subi et admire son courage. Ils débattent de la guerre, des dieux, d'Apollon et de la nature d'Achille comme guerrier. Achille défend l'idée que les dieux envient les mortels parce que leur vie est brève. Briséis comprend qu'il n'est pas seulement une brute et que cela le rend plus difficile à pardonner.",
+    "source_principale": "Adaptation Cinéma",
+    "reference_iliade": "",
+    "explication_litteraire": "Le dialogue Achille-Briséis est une invention moderne. Dans l'Iliade, Briséis parle surtout au Chant XIX, lorsqu'elle pleure Patrocle ; elle n'a pas avec Achille ce débat philosophique sur les dieux et la mortalité. La formule du film selon laquelle les dieux envient les mortels n'est pas homérique : chez Homère, les dieux sont immortels et puissants, mais soumis aux querelles et aux affects, tandis que les hommes souffrent et meurent. Le thème de la beauté accrue par la mort prochaine traduit toutefois le choix d'Achille au Chant IX : une vie brève avec gloire plutôt qu'un long retour obscur. La référence à Arès, dieu de la guerre, est correcte, malgré la graphie source « Aries »."
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "scene_number": 141,
+    "scene_heading": "EXT. BATTLEFIELD - DAY",
+    "characters": ["HECTOR", "ACHILLES"],
+    "action_film": "Hector sort seul dans le champ sous les yeux des Troyens et des Grecs. Il propose à Achille un pacte garantissant les rites funéraires du vaincu, mais Achille refuse toute entente. Les deux hommes retirent leurs casques et Hector explique qu'il croyait combattre Achille la veille. Achille menace de mutiler son corps et les deux héros s'élancent dans un duel d'une précision extrême.",
+    "source_principale": "L'Iliade",
+    "reference_iliade": "Chant XXII",
+    "explication_litteraire": "La scène reprend directement le face-à-face du Chant XXII. Chez Homère, Hector demande aussi un pacte funéraire avant le combat, et Achille répond qu'il n'y a pas de serments entre lions et hommes, image conservée presque littéralement (Chant XXII, v. 261-267). Le film supprime cependant la poursuite autour des murs de Troie, centrale chez Homère, où Hector fuit trois fois avant d'être trompé par Athéna. La menace de mutilation du corps est homérique : Achille refuse les rites à Hector et annonce qu'il le livrera aux chiens. Le retrait des casques et l'aveu sur Patrocle sont des ajouts cinématographiques."
+  },
+  {
+    "scene_number": 142,
+    "scene_heading": "EXT. HIGH DUNES - DAY",
+    "characters": [],
+    "action_film": "Sur les dunes, Agamemnon, Nestor, Ulysse et les Grecs regardent le duel. Les intrigues politiques semblent suspendues devant un combat que tous savent destiné à rester dans la mémoire.",
+    "source_principale": "L'Iliade",
+    "reference_iliade": "Chant XXII",
+    "explication_litteraire": "Cette scène de spectateurs grecs est une invention de dispositif, mais elle correspond au statut mémorable du duel dans l'Iliade. Homère fait du combat Achille-Hector l'un des sommets du poème, sans placer Agamemnon, Nestor et Ulysse dans une posture aussi explicitement contemplative. Le film insiste sur le kleos en montrant les futurs témoins de la légende."
+  },
+  {
+    "scene_number": 143,
+    "scene_heading": "EXT. BATTLEFIELD - DAY",
+    "characters": [],
+    "action_film": "Hector croit atteindre Achille, mais celui-ci piège son bras et évite la lame de justesse. Achille tente aussitôt de frapper le visage d'Hector. Hector échappe au coup et le duel reprend avec violence.",
+    "source_principale": "L'Iliade",
+    "reference_iliade": "Chant XXII",
+    "explication_litteraire": "Le détail chorégraphique est cinématographique. Dans l'Iliade, le duel est plus bref dans son échange technique : Hector manque Achille avec sa lance, puis Achille le frappe au point vulnérable près du cou. Le film étend le combat à l'épée pour en faire un affrontement équilibré et spectaculaire. La structure reste celle du Chant XXII : Hector est courageux mais dominé par un Achille que rien ne détourne de la vengeance."
+  },
+  {
+    "scene_number": 144,
+    "scene_heading": "EXT. WALLS OF TROY - CONTINUOUS",
+    "characters": [],
+    "action_film": "Sur les murailles, Andromaque reste assise avec Scamandrius et refuse de regarder le duel. L'enfant, inconscient du danger, joue avec les cheveux de sa mère.",
+    "source_principale": "L'Iliade",
+    "reference_iliade": "Chant XXII",
+    "explication_litteraire": "La réaction d'Andromaque se rattache au Chant XXII, mais avec une modification nette. Chez Homère, Andromaque n'assiste pas au duel : elle tisse dans le palais et prépare un bain pour Hector, ignorant encore sa mort ; elle accourt seulement après avoir entendu les lamentations. Le film la place sur les murs mais incapable de regarder. La présence de Scamandrius renforce le rappel du Chant VI, où l'enfant rit après avoir eu peur du casque d'Hector."
+  },
+  {
+    "scene_number": 145,
+    "scene_heading": "EXT. BATTLEFIELD - CONTINUOUS",
+    "characters": ["ACHILLES"],
+    "action_film": "Hector parvient à entamer la cuirasse d'Achille, puis résiste encore malgré la fatigue. Il tombe sur une pierre, mais Achille refuse que cette chute lui vole sa gloire et l'oblige à se relever. Hector lance une dernière attaque que son adversaire pare entièrement. Achille perce ensuite le bouclier, la cuirasse et le cœur d'Hector, qui s'effondre.",
+    "source_principale": "L'Iliade",
+    "reference_iliade": "Chant XXII",
+    "explication_litteraire": "La mort d'Hector vient du Chant XXII, mais le film modifie le coup fatal. Chez Homère, Achille repère l'ouverture près de la clavicule et du cou, seul endroit non protégé par les armes d'Achille que porte Hector, et le frappe là (Chant XXII, v. 319-329). Le film remplace la lance par l'épée et fait traverser le bouclier et le cœur, renforçant l'image d'une force irrésistible. Le détail du bouclier aux sept couches d'oxhide rappelle plutôt le grand bouclier d'Ajax au Chant VII, et son emploi ici est une transposition. La réplique sur la pierre et la gloire exprime le kleos : Achille veut être l'agent visible de la mort d'Hector."
+  },
+  {
+    "scene_number": 146,
+    "scene_heading": "EXT. WALLS OF TROY - CONTINUOUS",
+    "characters": [],
+    "action_film": "Priam reçoit la mort d'Hector comme une blessure physique. Pâris se crispe au bord du mur, tandis qu'Andromaque comprend l'issue par les gémissements de la foule et se ferme au spectacle.",
+    "source_principale": "L'Iliade",
+    "reference_iliade": "Chant XXII",
+    "explication_litteraire": "La douleur de Priam et d'Andromaque reprend le Chant XXII. Homère montre Priam se lamentant violemment sur les murs et Hécube se joignant à lui, tandis qu'Andromaque découvre plus tard la mort par les cris de la ville. Le film supprime Hécube, absente de son récit, et donne à Pâris une réaction visuelle qui prépare son durcissement. La foule troyenne comme relais du deuil correspond au caractère public de la mort d'Hector."
+  },
+  {
+    "scene_number": 147,
+    "scene_heading": "EXT. BATTLEFIELD - CONTINUOUS",
+    "characters": [],
+    "action_film": "Hector meurt dans le silence du champ de bataille. Achille revient avec son char, attache les chevilles du cadavre avec une corde et fixe l'autre extrémité au véhicule.",
+    "source_principale": "L'Iliade",
+    "reference_iliade": "Chant XXII",
+    "explication_litteraire": "L'outrage au cadavre d'Hector est directement homérique. Au Chant XXII, Achille perce les tendons des chevilles d'Hector, y passe des courroies et attache le corps à son char pour le traîner vers les nefs. Le film adoucit légèrement le détail technique en parlant de corde autour des chevilles, mais conserve l'essentiel : Achille refuse les rites et transforme le corps du meilleur défenseur de Troie en trophée de vengeance."
+  },
+  {
+    "scene_number": 148,
+    "scene_heading": "EXT. WALLS OF TROY - CONTINUOUS",
+    "characters": ["PRIAM", "HELEN"],
+    "action_film": "Pâris regarde l'outrage fait au corps d'Hector et semble perdre sa légèreté passée. Priam murmure sa douleur devant son fils mort. Andromaque s'effondre contre le mur avec Scamandrius en pleurs, et Hélène vient la soutenir pour la ramener à l'intérieur.",
+    "source_principale": "L'Iliade",
+    "reference_iliade": "Chant XXII, Chant XXIV",
+    "explication_litteraire": "La lamentation autour d'Hector reprend l'Iliade, mais le film redistribue les rôles. Au Chant XXII, Priam et Hécube se lamentent sur les murs ; au Chant XXIV, Andromaque, Hécube et Hélène prononcent les grandes plaintes funèbres autour du corps rendu. Ici, Hélène soutient Andromaque immédiatement après le duel, geste inventé mais cohérent avec la plainte d'Hélène au Chant XXIV, où elle reconnaît en Hector l'un des rares Troyens bienveillants envers elle. Pâris qui se durcit est une préparation scénaristique de son rôle ultérieur."
+  },
+  {
+    "scene_number": 149,
+    "scene_heading": "EXT. BATTLEFIELD - CONTINUOUS",
+    "characters": [],
+    "action_film": "Achille fouette son cheval et le char démarre, traînant le corps d'Hector à travers l'herbe.",
+    "source_principale": "L'Iliade",
+    "reference_iliade": "Chant XXII",
+    "explication_litteraire": "Cette image reprend le geste le plus brutal d'Achille au Chant XXII : le corps d'Hector est traîné derrière le char sous les yeux des Troyens. Homère insiste ensuite sur la protection divine du cadavre par Apollon, motif absent ici à ce stade."
+  },
+  {
+    "scene_number": 150,
+    "scene_heading": "EXT. WALLS OF TROY - CONTINUOUS",
+    "characters": [],
+    "action_film": "Priam s'effondre presque sous le choc. Glaucus et Pâris le retiennent et l'emportent vers l'ombre du dais bleu.",
+    "source_principale": "L'Iliade",
+    "reference_iliade": "Chant XXII",
+    "explication_litteraire": "La détresse physique de Priam vient du Chant XXII, où il se couvre de boue, supplie et pleure son fils. Le film la rend par un évanouissement contenu et par le soutien de Pâris et Glaucus. Hécube, pourtant présente et vocale chez Homère, reste absente dans l'adaptation."
+  }
+]
