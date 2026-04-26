@@ -31,40 +31,40 @@ But : créer une base de vérité avant d'ajouter de nouveaux tags au corpus.
 
 Critère de sortie : les sources antiques utiles au projet sont identifiées, classées et reliées aux grands motifs du film.
 
-- [ ] Créer `docs/corpus_sources.md`.
-- [ ] Définir les catégories de sources :
-  - [ ] Homère.
-  - [ ] Cycle Troyen.
-  - [ ] Héritage gréco-romain.
-  - [ ] Mythographes et sources tardives.
-  - [ ] Géographie et noms propres.
-- [ ] Identifier les sources primaires à utiliser en priorité :
-  - [ ] Homère, *Iliade*.
-  - [ ] Homère, *Odyssée*.
-  - [ ] Résumés du Cycle Troyen attribués à Proclus.
-  - [ ] Virgile, *Énéide*, surtout livre II.
-  - [ ] Eschyle, *Agamemnon*.
-  - [ ] Sophocle, *Ajax*.
-  - [ ] Euripide, *Troyennes*, *Hécube*, *Andromaque*.
-  - [ ] Ovide, *Héroïdes* et passages pertinents des *Métamorphoses*.
-  - [ ] Stace, *Achilléide*.
-  - [ ] Apollodore, *Bibliothèque*.
-  - [ ] Hygin, *Fables*.
-  - [ ] Strabon, passages utiles pour les noms propres et lieux.
+- [x] Créer `docs/corpus_sources.md`.
+- [x] Définir les catégories de sources :
+  - [x] Homère.
+  - [x] Cycle Troyen.
+  - [x] Héritage gréco-romain.
+  - [x] Mythographes et sources tardives.
+  - [x] Géographie et noms propres.
+- [x] Identifier les sources primaires à utiliser en priorité :
+  - [x] Homère, *Iliade*.
+  - [x] Homère, *Odyssée*.
+  - [x] Résumés du Cycle Troyen attribués à Proclus.
+  - [x] Virgile, *Énéide*, surtout livre II.
+  - [x] Eschyle, *Agamemnon*.
+  - [x] Sophocle, *Ajax*.
+  - [x] Euripide, *Troyennes*, *Hécube*, *Andromaque*.
+  - [x] Ovide, *Héroïdes* et passages pertinents des *Métamorphoses*.
+  - [x] Stace, *Achilléide*.
+  - [x] Apollodore, *Bibliothèque*.
+  - [x] Hygin, *Fables*.
+  - [x] Strabon, passages utiles pour les noms propres et lieux.
 - [ ] Pour chaque source, renseigner :
-  - [ ] auteur ;
-  - [ ] oeuvre ;
+  - [x] auteur ;
+  - [x] oeuvre ;
   - [ ] date approximative ;
-  - [ ] statut : conservée, fragmentaire, perdue, tardive ;
-  - [ ] niveau de fiabilité éditoriale ;
-  - [ ] lien ou fichier local disponible ;
-  - [ ] motifs du film concernés.
+  - [x] statut : conservée, fragmentaire, perdue, tardive ;
+  - [x] niveau de fiabilité éditoriale ;
+  - [x] lien ou fichier local disponible ;
+  - [x] motifs du film concernés.
 - [ ] Créer une liste courte des sources réellement mobilisables pour la première passe.
 
 Livrables :
 
-- [ ] `docs/corpus_sources.md`
-- [ ] `docs/table_sources_antiques.md`
+- [x] `docs/corpus_sources.md`
+- [x] `docs/table_sources_antiques.md`
 
 ---
 
@@ -333,8 +333,8 @@ Livrables :
 
 Cette première séquence doit produire une base solide sans toucher encore au JSON de référence.
 
-- [ ] Créer `docs/corpus_sources.md`.
-- [ ] Créer `docs/table_sources_antiques.md`.
+- [x] Créer `docs/corpus_sources.md`.
+- [x] Créer `docs/table_sources_antiques.md`.
 - [ ] Créer `docs/index_motifs_troy.md`.
 - [ ] Générer `output/audit_motifs.csv`.
 - [ ] Identifier les 20 à 40 scènes prioritaires à vérifier.
