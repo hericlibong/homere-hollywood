@@ -3,6 +3,5 @@
 __pycache__/
 *.pyc
 .pytest_cache/
-output/comparison_results.json
 logs/
 

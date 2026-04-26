@@ -1,0 +1,150 @@
+{
+  "scenes_compared": 3,
+  "grand_total_cost_usd": 0.15874,
+  "results": [
+    {
+      "scene_number": 25,
+      "scene_heading": "EXT. SEASHORE - SUNSET",
+      "sonnet": {
+        "model": "claude-sonnet-4-6",
+        "valid": true,
+        "result": {
+          "scene_number": 25,
+          "scene_heading": "EXT. SEASHORE - SUNSET",
+          "characters": [
+            "THETIS",
+            "ACHILLES"
+          ],
+          "action_film": "Achille retrouve sa mère Thétis sur le rivage au coucher du soleil. Elle ramasse des coquillages et évoque le collier qu'elle lui faisait enfant. Achille lui annonce qu'on le réclame pour une nouvelle guerre et que Patrocle veut y aller. Thétis lui expose alors les deux destins : une longue vie paisible et oubliée, ou une mort à Troie et une gloire éternelle. Elle lui confirme qu'il mourra s'il part. Achille contemple la mer ; Thétis évoque son père, qui regardait toujours la mer au retour de la guerre. Au loin, une voile blanche.",
+          "source_principale": "L'Iliade",
+          "reference_iliade": "Chant IX, Chant XVIII",
+          "explication_litteraire": "Cette scène est le cœur mythologique du film et repose sur un motif homérique fondamental : le double destin d'Achille. Dans l'Iliade, Achille lui-même énonce ce choix au Chant IX (v. 410-416) : sa mère Thétis lui a révélé qu'il a deux sorts possibles, soit mourir jeune à Troie en gagnant une gloire impérissable (kleos aphthiton), soit rentrer chez lui et vivre longtemps sans gloire. Le film transpose ce discours dans la bouche de Thétis, ce qui est une légère redistribution dramatique mais reste fidèle à la source. La formule 'les hommes raconteront tes victoires pendant des milliers d'années' traduit exactement la notion de kleos, la renommée transmise par le chant épique, qui est l'enjeu central de l'Iliade. Au Chant XVIII (v. 94-96), Thétis confirme à son fils qu'il mourra peu après Hector — scène que le film anticipe ici. La relation entre Thétis et Achille est rendue avec une justesse remarquable : dans l'Iliade, Thétis est une mère douloureuse qui sait la mort de son fils inévitable et l'accompagne de ses larmes (Chant I, v. 413-418 ; Chant XVIII, v. 35-64). Le détail du collier de coquillages et la mention du père d'Achille regardant la mer sont des inventions du scénario, mais la voile blanche aperçue au loin fonctionne comme une image poétique cohérente avec l'univers marin de Thétis, néréide fille de la mer."
+        },
+        "raw": null,
+        "validation_error": null,
+        "tokens_in": 677,
+        "tokens_out": 718,
+        "cost_usd": 0.02747
+      },
+      "opus": {
+        "model": "claude-opus-4-7",
+        "valid": true,
+        "result": {
+          "scene_number": 25,
+          "scene_heading": "EXT. SEASHORE - SUNSET",
+          "characters": [
+            "THETIS",
+            "ACHILLES"
+          ],
+          "action_film": "Au bord de la mer, Thétis ramasse des coquillages pour son fils. Achille lui annonce qu'on le veut pour une nouvelle guerre, et que Patrocle souhaite y aller. Sa mère lui expose alors la double destinée qui s'offre à lui : une vie longue et paisible avec une famille qui l'oubliera, ou la mort à Troie suivie d'une gloire éternelle. Elle confirme qu'il y mourra. Achille fixe la mer, où apparaît au loin une voile blanche.",
+          "source_principale": "L'Iliade",
+          "reference_iliade": "Chant IX",
+          "explication_litteraire": "Cette scène transpose presque mot pour mot la révélation de la double destinée (dikhthadiai kêres) qu'Achille rapporte à l'ambassade au Chant IX de l'Iliade (v.410-416) : rester pour vivre vieux sans gloire, ou mourir jeune à Troie en gagnant un kléos aphthiton, une 'gloire impérissable'. Le scénario déplace simplement la révélation de la bouche d'Achille rapportant Thétis à la bouche de Thétis elle-même, ce qui rend la scène cinématographiquement plus directe. Thétis, déesse marine, fille de Nérée et épouse mortelle de Pélée, intervient régulièrement auprès de son fils dans l'Iliade en émergeant de la mer (Chants I, XVIII, XXIV) — son apparition dans les vagues est donc fidèle. Le détail des coquillages est une invention domestique du scénario, mais le motif de la mère qui pleure le destin abrégé de son fils traverse toute l'épopée, notamment au Chant XVIII où Thétis se lamente avec les Néréides en apprenant la mort prochaine d'Achille. L'évocation de Pélée fixant la mer ajoute une note mélancolique propre au film."
+        },
+        "raw": null,
+        "validation_error": null,
+        "tokens_in": 861,
+        "tokens_out": 736,
+        "cost_usd": 0.0543
+      },
+      "total_cost_usd": 0.08177
+    },
+    {
+      "scene_number": 75,
+      "scene_heading": "INT. AGAMEMNON'S TENT - CONTINUOUS",
+      "sonnet": {
+        "model": "claude-sonnet-4-6",
+        "valid": true,
+        "result": {
+          "scene_number": 75,
+          "scene_heading": "INT. AGAMEMNON'S TENT - CONTINUOUS",
+          "characters": [
+            "AGAMEMNON",
+            "ACHILLES",
+            "BRISEIS"
+          ],
+          "action_film": "Dans la tente d'Agamemnon, les rois grecs défilent pour offrir des présents au commandant en chef. Triopas lui remet un poignard cérémoniel, Nestor une urne commémorative. Odysseus glisse un mot à Achille avant de partir. Resté seul avec Agamemnon, Achille refuse de reconnaître la victoire comme sienne et les deux hommes s'affrontent verbalement sur la gloire et la mémoire. Agamemnon fait alors amener Briséis, capturée dans le temple d'Apollon, comme part de butin. Achille dégaine son épée pour la défendre, mais Briséis elle-même l'arrête. Agamemnon raille Achille, qui quitte la tente après lui avoir promis de se réjouir sur son cadavre.",
+          "source_principale": "L'Iliade",
+          "reference_iliade": "Chant I",
+          "explication_litteraire": "La scène transpose directement la querelle du Chant I de l'Iliade (v. 1-305), épisode fondateur du poème. Dans l'Iliade, la prise de Briséis par Agamemnon est la cause directe de la colère d'Achille et de son retrait du combat. Le film condense et dramatise cet affrontement en le situant après le débarquement, alors qu'Homère le place après la restitution de Chryséis et la menace de la peste. Plusieurs éléments sont fidèles à la source : Agamemnon invoque son droit de commandant à la première part du butin (Chant I, v. 163-168), Achille dégaine son épée avant de se retenir — chez Homère, c'est Athéna qui l'arrête (v. 193-218), ici remplacée par Briséis elle-même, invention du scénario qui donne à la jeune femme une agentivité absente du texte homérique. Dans l'Iliade, Briséis est une figure silencieuse au Chant I ; elle ne prend la parole qu'au Chant XIX (v. 287-300) pour pleurer Patrocle. La réplique d'Achille promettant de se réjouir sur le cadavre d'Agamemnon n'a pas d'équivalent direct dans l'Iliade, mais prolonge la malédiction lancée au Chant I (v. 240-244), où Achille prédit qu'Agamemnon regrettera amèrement son affront. Nestor et son urne commémorant la victoire à Cyparisseis sont une invention du scénario ; dans l'Iliade, Nestor est roi de Pylos et fils de Nélée, ce qui est ici repris fidèlement. La remarque d'Odysseus sur 'les vieux qui parlent et les jeunes qui meurent' est une invention du film sans équivalent homérique, mais cohérente avec le portrait d'Odysseus en homme pragmatique que l'Iliade développe notamment aux Chants II et X."
+        },
+        "raw": null,
+        "validation_error": null,
+        "tokens_in": 1316,
+        "tokens_out": 868,
+        "cost_usd": 0.01814
+      },
+      "opus": {
+        "model": "claude-opus-4-7",
+        "valid": true,
+        "result": {
+          "scene_number": 75,
+          "scene_heading": "INT. AGAMEMNON'S TENT - CONTINUOUS",
+          "characters": [
+            "AGAMEMNON",
+            "ACHILLES",
+            "BRISEIS",
+            "ODYSSEUS",
+            "TRIOPAS",
+            "NESTOR"
+          ],
+          "action_film": "Sous la tente d'Agamemnon, les rois grecs présentent leurs hommages au roi des rois après la prise de la plage troyenne. Triopas et Nestor offrent des présents. Odysseus glisse un mot à Achille avant de sortir. Resté seul avec Agamemnon, Achille s'oppose à lui sur le sens de la victoire. Agamemnon fait alors traîner Briséis battue dans la tente comme part de butin. Achille tire l'épée mais Briséis l'arrête. Achille jure à Agamemnon qu'il sourira sur son cadavre.",
+          "source_principale": "L'Iliade",
+          "reference_iliade": "Chant I",
+          "explication_litteraire": "Cette scène condense la querelle inaugurale du Chant I de l'Iliade, déplacée du dixième jour de la guerre au tout début. Chez Homère, Briséis est confisquée parce qu'Agamemnon doit rendre Chryséis, fille du prêtre d'Apollon, suite à la peste envoyée par le dieu : le film évacue la dimension religieuse mais conserve la mention du temple d'Apollon pillé par les Myrmidons, écho de l'épisode de Chryséis. La saisie de Briséis par deux hérauts (ici Aphareus et Haemon, chez Homère Talthybios et Eurybatès) reproduit fidèlement le Chant I (v.318-348). Le conflit sur la nature de la gloire — les rois contre les soldats — reformule en termes modernes la dispute homérique sur la timê (l'honneur dû par le partage du butin). La formule 'son of Peleus' qu'Achille refuse d'entendre dans la bouche d'Agamemnon est le patronyme homérique récurrent (Pêlêiadês). Triopas et Nestor en suppliants sont une invention scénique : Nestor n'apporte pas de tribut chez Homère mais joue le médiateur (Chant I, v.247 sq.). La menace finale d'Achille condense en une phrase la longue prophétie qu'il prononce au Chant I (v.240-244) sur le jour où les Achéens regretteront son absence."
+        },
+        "raw": null,
+        "validation_error": null,
+        "tokens_in": 1813,
+        "tokens_out": 866,
+        "cost_usd": 0.03324
+      },
+      "total_cost_usd": 0.05138
+    },
+    {
+      "scene_number": 130,
+      "scene_heading": "INT. ACHILLES' TENT - MORNING",
+      "sonnet": {
+        "model": "claude-sonnet-4-6",
+        "valid": true,
+        "result": {
+          "scene_number": 130,
+          "scene_heading": "INT. ACHILLES' TENT - MORNING",
+          "characters": [],
+          "action_film": "Achille contemple Briséis endormie avec tendresse. Eudoros soulève le pan de la tente ; Achille lui fait signe de se taire. Il remonte la couverture sur les épaules de Briséis et sort.",
+          "source_principale": "Adaptation Cinéma",
+          "reference_iliade": "",
+          "explication_litteraire": "La relation entre Achille et Briséis est radicalement transformée par le film. Dans l'Iliade, Briséis est une captive de guerre (géras, « part d'honneur ») dont l'enlèvement par Agamemnon déclenche la colère d'Achille — non par amour, mais par atteinte à son statut. Le Chant XIX (v. 282-300) lui donne brièvement la parole pour pleurer Patrocle, révélant qu'Achille lui avait promis de faire d'elle son épouse légitime, mais cette promesse relève du rang social, pas d'une intimité romantique. La tendresse visuelle de cette scène — le geste de remonter la couverture, le silence complice avec Eudoros — construit une relation amoureuse que l'Iliade ne développe jamais. Eudoros est un nom homérique authentique, porté dans l'Iliade (Chant XVI, v. 179) par un chef des Myrmidons, fils d'Hermès et de Polymèle ; le film lui donne ici un rôle de confident discret absent des sources."
+        },
+        "raw": null,
+        "validation_error": null,
+        "tokens_in": 173,
+        "tokens_out": 440,
+        "cost_usd": 0.00829
+      },
+      "opus": {
+        "model": "claude-opus-4-7",
+        "valid": true,
+        "result": {
+          "scene_number": 130,
+          "scene_heading": "INT. ACHILLES' TENT - MORNING",
+          "characters": [
+            "ACHILLES",
+            "BRISEIS",
+            "EUDORUS"
+          ],
+          "action_film": "Au matin, Achille contemple Briséis endormie, le visage marqué. Eudore entre ; Achille lui fait signe de garder le silence. Il recouvre doucement les épaules de Briséis avant de sortir.",
+          "source_principale": "Adaptation Cinéma",
+          "reference_iliade": "",
+          "explication_litteraire": "Scène entièrement inventée par le scénario, qui développe la relation amoureuse entre Achille et Briséis absente de l'Iliade. Chez Homère, Briséis est une captive (geras, part d'honneur) dont l'enlèvement par Agamemnon déclenche la colère d'Achille au Chant I, mais leur intimité n'est jamais montrée. Au Chant IX (v.342-343), Achille évoque brièvement son attachement à Briséis, et au Chant XIX (v.282-302) Briséis pleure Patrocle en rappelant qu'il lui avait promis qu'Achille l'épouserait. Le film transpose ces indices ténus en une véritable histoire d'amour, registre étranger à l'épopée homérique et plus proche du romanesque hellénistique. Eudore (Eudoros) est un nom homérique authentique : chef myrmidon mentionné au Chant XVI (v.179) parmi les cinq commandants des cinquante navires d'Achille."
+        },
+        "raw": null,
+        "validation_error": null,
+        "tokens_in": 228,
+        "tokens_out": 545,
+        "cost_usd": 0.01729
+      },
+      "total_cost_usd": 0.02559
+    }
+  ]
+}
