@@ -120,7 +120,7 @@ Exemples :
 - Statut : source litteraire conservee.
 - Niveau de fiabilite : A.
 - Usage dans le projet : verifier toutes les scenes marquees `L'Iliade`, toutes les references a un chant, et toutes les allusions homeriques presentes dans les explications.
-- Source locale : `sources/Liliade.pdf`.
+- Source locale : `sources/homere/Liliade.pdf`.
 - Sources de controle :
   - Perseus / Scaife Viewer : https://atlas.perseus.tufts.edu/library/urn:cts:greekLit:tlg0012.tlg001.perseus-eng4/
   - Perseus Hopper, texte grec/anglais par chant : https://www.perseus.tufts.edu/
@@ -146,6 +146,7 @@ Portes d'entree dans l'audit homerique :
 - Statut : source litteraire conservee.
 - Niveau de fiabilite : A.
 - Usage dans le projet : verifier les traditions de retour, Menelas et Helene apres la guerre, le souvenir du cheval de Troie, les morts evoques dans l'au-dela.
+- Source locale : `sources/virgil/eneide.pdf`.
 - Source de controle :
   - Perseus Hopper : https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0135
 
@@ -281,10 +282,17 @@ Passage central :
 - Statut : sources litteraires conservees.
 - Niveau de fiabilite : A.
 - Usage dans le projet : verifier les traditions tragiques sur les femmes troyennes, le sort des captives, Andromaque, Hecube, Cassandre et Astyanax.
+- Source locale disponible :
+  - *Troyennes* : `sources/euripide/troyen.pdf`, traduction francaise de Rene Biberfeld, 2015.
 - Sources de controle :
   - *Troyennes* : https://www.theoi.com/Text/EuripidesTrojanWomen.html
   - *Hecube* : https://www.theoi.com/Text/EuripidesHecuba.html
   - *Andromaque* : https://www.theoi.com/Text/EuripidesAndromache.html
+
+Note d'usage :
+
+- Le PDF local des *Troyennes* est exploitable pour reperer les motifs et verifier le contenu dramatique general.
+- Pour une citation savante ou une localisation precise, controler avec une edition de reference ou une version numerotee.
 
 ### 7.5 Ovide, *Heroides* et *Metamorphoses*
 
@@ -360,7 +368,9 @@ Ces sources ne doivent pas remplacer les sources litteraires narratives, mais el
 
 ## 10. Sources a localiser ou ajouter
 
-- [x] Localiser et rattacher `Liliade.pdf` si le fichier doit etre utilise directement dans le depot : `sources/Liliade.pdf`.
+- [x] Localiser et rattacher `Liliade.pdf` si le fichier doit etre utilise directement dans le depot : `sources/homere/Liliade.pdf`.
+- [x] Localiser et rattacher l'*Eneide* de Virgile si le fichier doit etre utilise directement dans le depot : `sources/virgil/eneide.pdf`.
+- [x] Localiser et rattacher les *Troyennes* d'Euripide si le fichier doit etre utilise directement dans le depot : `sources/euripide/troyen.pdf`.
 - [ ] Localiser ou rattacher `troy.pdf` si le scenario source doit etre cite dans les audits.
 - [ ] Identifier une edition numerique stable de l'Odyssee en francais ou anglais.
 - [ ] Identifier une edition numerique stable d'Ovide, *Heroides*.
