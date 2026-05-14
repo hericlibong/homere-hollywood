@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Homère & Hollywood - Troy</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="app-header">
+        <div>
+          <p class="kicker">Homère & Hollywood</p>
+          <h1>Troy, scène par scène</h1>
+          <p class="intro">
+            Une timeline interactive pour lire comment le film reprend, déplace,
+            invente ou contredit la matière antique.
+          </p>
+        </div>
+        <div class="summary" aria-label="Résumé du corpus">
+          <span id="sceneCount">201 scènes</span>
+          <span id="visibleCount">201 visibles</span>
+        </div>
+      </header>
+
+      <section class="controls" aria-label="Filtres">
+        <div class="control-group">
+          <span class="control-label">Degré</span>
+          <div id="degreeFilters" class="button-row"></div>
+        </div>
+        <div class="control-group">
+          <span class="control-label">Source</span>
+          <div id="sourceFilters" class="button-row"></div>
+        </div>
+        <label class="control-group select-control">
+          <span class="control-label">Personnage</span>
+          <select id="characterFilter">
+            <option value="">Tous</option>
+          </select>
+        </label>
+        <button id="resetFilters" class="reset-button" type="button">Réinitialiser</button>
+      </section>
+
+      <section class="timeline-section" aria-label="Timeline">
+        <div class="timeline-topline">
+          <div id="activeLabel" class="active-label">Survolez ou sélectionnez une scène</div>
+          <div id="legend" class="legend"></div>
+        </div>
+        <div id="timelineWrap" class="timeline-wrap">
+          <svg id="timeline" role="img" aria-label="Timeline de Troy colorée par degré de fidélité"></svg>
+        </div>
+      </section>
+
+      <section class="detail-layout">
+        <aside id="mediaPanel" class="media-panel" aria-label="Emplacement image">
+          <div id="mediaPlaceholder" class="media-placeholder">
+            <span id="mediaScene">Scène</span>
+            <strong id="mediaTitle">Image à ajouter</strong>
+          </div>
+        </aside>
+
+        <article class="detail-panel" aria-live="polite">
+          <div class="detail-actions">
+            <button id="prevScene" type="button">← Précédente</button>
+            <button id="nextScene" type="button">Suivante →</button>
+          </div>
+          <div class="detail-heading">
+            <p id="detailNumber" class="detail-number">Scène</p>
+            <h2 id="detailTitle">Sélectionnez une scène</h2>
+            <div id="detailTags" class="tag-row"></div>
+          </div>
+          <dl class="meta-grid">
+            <div>
+              <dt>Personnages</dt>
+              <dd id="detailCharacters">-</dd>
+            </div>
+            <div>
+              <dt>Référence</dt>
+              <dd id="detailReference">-</dd>
+            </div>
+          </dl>
+          <div class="text-columns">
+            <section>
+              <h3>Film</h3>
+              <p id="detailAction">Cliquez un segment de la timeline pour afficher le résumé de la scène.</p>
+            </section>
+            <section>
+              <h3>Lecture littéraire</h3>
+              <p id="detailExplanation">L'explication de la généalogie littéraire apparaîtra ici.</p>
+            </section>
+          </div>
+        </article>
+      </section>
+    </main>
+
+    <div id="tooltip" class="tooltip" hidden></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

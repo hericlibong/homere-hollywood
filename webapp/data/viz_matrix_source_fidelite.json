@@ -1,0 +1,98 @@
+[
+    {
+        "source_principale":  "L'Iliade",
+        "degre_fidelite":  1,
+        "degre_label":  "Reprise fidèle",
+        "count":  40
+    },
+    {
+        "source_principale":  "L'Iliade",
+        "degre_fidelite":  2,
+        "degre_label":  "Déplacement",
+        "count":  9
+    },
+    {
+        "source_principale":  "L'Iliade",
+        "degre_fidelite":  3,
+        "degre_label":  "Invention sur fond emprunté",
+        "count":  1
+    },
+    {
+        "source_principale":  "L'Iliade",
+        "degre_fidelite":  4,
+        "degre_label":  "Invention contradictoire",
+        "count":  9
+    },
+    {
+        "source_principale":  "Le Cycle Troyen",
+        "degre_fidelite":  1,
+        "degre_label":  "Reprise fidèle",
+        "count":  0
+    },
+    {
+        "source_principale":  "Le Cycle Troyen",
+        "degre_fidelite":  2,
+        "degre_label":  "Déplacement",
+        "count":  11
+    },
+    {
+        "source_principale":  "Le Cycle Troyen",
+        "degre_fidelite":  3,
+        "degre_label":  "Invention sur fond emprunté",
+        "count":  2
+    },
+    {
+        "source_principale":  "Le Cycle Troyen",
+        "degre_fidelite":  4,
+        "degre_label":  "Invention contradictoire",
+        "count":  10
+    },
+    {
+        "source_principale":  "Héritage Gréco-Romain",
+        "degre_fidelite":  1,
+        "degre_label":  "Reprise fidèle",
+        "count":  0
+    },
+    {
+        "source_principale":  "Héritage Gréco-Romain",
+        "degre_fidelite":  2,
+        "degre_label":  "Déplacement",
+        "count":  1
+    },
+    {
+        "source_principale":  "Héritage Gréco-Romain",
+        "degre_fidelite":  3,
+        "degre_label":  "Invention sur fond emprunté",
+        "count":  1
+    },
+    {
+        "source_principale":  "Héritage Gréco-Romain",
+        "degre_fidelite":  4,
+        "degre_label":  "Invention contradictoire",
+        "count":  9
+    },
+    {
+        "source_principale":  "Adaptation Cinéma",
+        "degre_fidelite":  1,
+        "degre_label":  "Reprise fidèle",
+        "count":  0
+    },
+    {
+        "source_principale":  "Adaptation Cinéma",
+        "degre_fidelite":  2,
+        "degre_label":  "Déplacement",
+        "count":  0
+    },
+    {
+        "source_principale":  "Adaptation Cinéma",
+        "degre_fidelite":  3,
+        "degre_label":  "Invention sur fond emprunté",
+        "count":  66
+    },
+    {
+        "source_principale":  "Adaptation Cinéma",
+        "degre_fidelite":  4,
+        "degre_label":  "Invention contradictoire",
+        "count":  20
+    }
+]
